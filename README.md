@@ -1,4 +1,4 @@
-📊 E-Commerce Sales & Profit Analysis
+📊 E-Commerce Sales & Profit Analysis Using Python
 
 This project presents a comprehensive analysis of e-commerce transactional data to uncover key business insights across time, product categories, sub-categories, customer segments, and profitability. Using Python and data visualization libraries, we explore sales trends and profitability patterns to inform strategic decisions.
 
